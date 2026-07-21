@@ -1,11 +1,11 @@
 # 💻 Laryssa Souza
 
-**Estudante de Ciência da Computação | Explorando UX/UI, Front-end e Design**
+**Estudante de Ciência da Computação | Desenvolvedora Front-end em formação | Explorando UX/UI Design**
 
 Me chamo Laryssa de Souza Simões, tenho 19 anos e sou de São Paulo.  
 Atualmente estou cursando **Ciência da Computação** e focando em construir minha base na área de tecnologia.
 
-Estou estruturando meus conhecimentos e experiência prática., desenvolvendo projetos simples para evoluir minhas habilidades. Tenho interesse em **UX/UI, front-end e design**, mas continuo explorando áreas dentro da tecnologia para entender onde posso crescer mais.
+Estou estruturando meus conhecimentos e experiência prática, desenvolvendo projetos simples para evoluir minhas habilidades. Tenho interesse em **UX/UI, front-end e design**, mas continuo explorando áreas dentro da tecnologia para entender onde posso crescer mais.
 
 Aqui no GitHub você vai encontrar meus estudos, exercícios e projetos. Cada um representa um passo da minha evolução na área.
 
@@ -50,11 +50,11 @@ Aqui no GitHub você vai encontrar meus estudos, exercícios e projetos. Cada um
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
