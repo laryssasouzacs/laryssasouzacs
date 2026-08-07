@@ -1,6 +1,6 @@
-# 💻 Laryssa Souza
+# Laryssa Souza
 
-**Estudante de Ciência da Computação | Desenvolvedora Front-end em formação | Explorando UX/UI Design**
+**Estudante de Ciência da Computação | Desenvolvedora Front-end em formação**
 
 Me chamo Laryssa de Souza Simões, tenho 19 anos e sou de São Paulo.  
 Atualmente estou cursando **Ciência da Computação** e focando em construir minha base na área de tecnologia.
