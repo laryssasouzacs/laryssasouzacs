@@ -1,22 +1,14 @@
 # Laryssa Souza
 
-**Estudante de Ciência da Computação | Desenvolvedora Front-end em formação**
+**Estudante de Ciência da Computação | Desenvolvedora em formação**
 
-Me chamo Laryssa de Souza Simões, tenho 19 anos e sou de São Paulo.  
-Atualmente estou cursando **Ciência da Computação** e focando em construir minha base na área de tecnologia.
+Estudante de Ciência da Computação e desenvolvedora em formação, atualmente fortalecendo minha base em desenvolvimento web e JavaScript.
 
-Estou estruturando meus conhecimentos e experiência prática, desenvolvendo projetos simples para evoluir minhas habilidades. Tenho interesse em **UX/UI, front-end e design**, mas continuo explorando áreas dentro da tecnologia para entender onde posso crescer mais.
+Gosto de aprender colocando os conhecimentos em prática, criando projetos que resolvem problemas reais e explorando novas tecnologias ao longo da minha formação.
 
-Aqui no GitHub você vai encontrar meus estudos, exercícios e projetos. Cada um representa um passo da minha evolução na área.
+Aqui compartilho projetos pessoais e trabalhos desenvolvidos durante minha formação.
 
-<p align="left">
-    <a href="https://github.com/laryssasouzacs?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/laryssasouzacs?color=%230B3D91&labelColor=%23082a66&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="left
     <a href="https://www.linkedin.com/in/laryssa-souza-simoes/">
         <img 
             alt="LinkedIn" 
@@ -73,7 +65,7 @@ Aqui no GitHub você vai encontrar meus estudos, exercícios e projetos. Cada um
 
 ### Atualmente
 
-- Estudando Ciência da Computação  
-- Explorando UX/UI e design de interfaces  
-- Praticando desenvolvimento front-end  
-- Organizando meus projetos para publicar aqui  
+- Estudando Ciência da Computação
+- Praticando JavaScript e desenvolvimento web
+- Desenvolvendo projetos práticos
+- Construindo meu portfólio  
