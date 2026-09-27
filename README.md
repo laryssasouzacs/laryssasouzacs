@@ -9,7 +9,7 @@ Gosto de aprender colocando os conhecimentos em prática, criando projetos que r
 Aqui compartilho projetos pessoais e trabalhos desenvolvidos durante minha formação.
 
 <p align="left
-    <a href="https://www.linkedin.com/in/laryssa-souza-simoes/">
+    <a href="https:www.linkedin.com/in/laryssasouzacs">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
