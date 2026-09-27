@@ -68,4 +68,14 @@ Aqui compartilho projetos pessoais e trabalhos desenvolvidos durante minha forma
 - Estudando Ciência da Computação
 - Praticando JavaScript e desenvolvimento web
 - Desenvolvendo projetos práticos
-- Construindo meu portfólio  
+- Construindo meu portfólio
+
+---
+
+### Projetos do curso técnico
+
+Também mantenho meus projetos desenvolvidos durante o curso técnico em uma organização separada no GitHub.
+
+<a href="https://github.com/laryssa-curso-tecnico">
+    Ver projetos do curso técnico
+</a>
